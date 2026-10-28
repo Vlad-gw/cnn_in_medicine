@@ -1,0 +1,12 @@
+# Google Colab usually provides torch/torchvision; notebook installs kagglehub itself.
+torch
+torchvision
+kagglehub
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+Pillow
+tqdm
+tabulate

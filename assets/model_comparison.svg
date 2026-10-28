@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="380" viewBox="0 0 950 380" role="img" aria-label="Test accuracy for CNN baseline, tuned CNN, MobileNetV3 Small tuned, ResNet18 tuned">
+<rect width="950" height="380" rx="15" fill="#0f172a"/>
+<text x="35" y="48" fill="#f8fafc" font-family="Arial,sans-serif" font-size="24" font-weight="bold">Brain MRI • held-out test accuracy</text>
+<text x="35" y="75" fill="#94a3b8" font-family="Arial,sans-serif" font-size="14">Four classes · N = 1,584 images · higher is better</text>
+<g font-family="Arial,sans-serif" font-size="15" fill="#e2e8f0">
+<text x="35" y="132">Custom CNN baseline</text><text x="35" y="196">Custom CNN tuned</text><text x="35" y="260">MobileNetV3-Small tuned</text><text x="35" y="324">ResNet18 tuned</text>
+</g>
+<g fill="#334155"><rect x="258" y="112" width="570" height="27" rx="5"/><rect x="258" y="176" width="570" height="27" rx="5"/><rect x="258" y="240" width="570" height="27" rx="5"/><rect x="258" y="304" width="570" height="27" rx="5"/></g>
+<rect x="258" y="112" width="431.09" height="27" rx="5" fill="#38bdf8"/>
+<rect x="258" y="176" width="454.12" height="27" rx="5" fill="#60a5fa"/>
+<rect x="258" y="240" width="493.73" height="27" rx="5" fill="#a78bfa"/>
+<rect x="258" y="304" width="513.86" height="27" rx="5" fill="#34d399"/>
+<g font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#f8fafc">
+<text x="842" y="132">75.63%</text><text x="842" y="196">79.67%</text><text x="842" y="260">86.62%</text><text x="842" y="324">90.15%</text>
+</g>
+</svg>

@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# Model checkpoints and datasets
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+data/
+datasets/
+checkpoints/
+outputs/
+runs/
+LR3_variant24_CNN_MRI/
+split_manifest.csv
+RESULTS_FOR_REPORT.zip
+
+# Notebook/OS
+.DS_Store
+Thumbs.db
